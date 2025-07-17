@@ -5,7 +5,7 @@ import java.util.NoSuchElementException;
  * Represents a music album containing a collection of songs in LIFO order. Uses LinkedStack to
  * maintain the ordering of songs.
  * 
- * @author swatibanwani
+ * @author rishabhaggarwal
  */
 public class Album {
 
