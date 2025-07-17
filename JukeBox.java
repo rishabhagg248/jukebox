@@ -7,7 +7,7 @@ import java.util.NoSuchElementException;
  * Represents a jukebox that manages a queue of songs with a fixed capacity. Uses LinkedQueue to
  * maintain FIFO ordering of songs for playback.
  * 
- * @author swatibanwani
+ * @author rishabhaggarwal
  */
 public class JukeBox {
 
