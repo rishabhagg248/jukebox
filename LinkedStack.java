@@ -1,21 +1,3 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title: Linked Stack
-// Course: CS 300 Fall 2024
-//
-// Author: Swati Banwani
-// Email: banwani@wisc.edu
-// Lecturer: Hobbes LeGault
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// N/A
-//
-//////////////////////// ASSISTANCE/HELP CITATIONS ////////////////////////////
-//
-// N/A
-//
-///////////////////////////////////////////////////////////////////////////////
 
 import java.util.ArrayList;
 
@@ -23,7 +5,7 @@ import java.util.ArrayList;
  * A stack implementation using a linked list structure.
  *
  * @param <T> the type of elements stored in the stack
- * @author swatibanwani
+ * @author rishabhaggarwal
  */
 public class LinkedStack<T> implements StackADT<T> {
 
