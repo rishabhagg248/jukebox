@@ -1,21 +1,3 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title: Linked Queue
-// Course: CS 300 Fall 2024
-//
-// Author: Swati Banwani
-// Email: banwani@wisc.edu
-// Lecturer: Hobbes LeGault
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// N/A
-//
-//////////////////////// ASSISTANCE/HELP CITATIONS ////////////////////////////
-//
-// N/A
-//
-///////////////////////////////////////////////////////////////////////////////
 
 import java.util.ArrayList;
 
@@ -24,7 +6,7 @@ import java.util.ArrayList;
  * to provide FIFO (First-In-First-Out) functionality.
  *
  * @param <T> the type of elements stored in the queue
- * @author swatibanwani
+ * @author rishabhaggarwal
  */
 public class LinkedQueue<T> implements QueueADT<T> {
 
